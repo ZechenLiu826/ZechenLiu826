@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I’m currently studying at Queen Mary, University of London
+### My major is Mathematics and Statistics
+### I'm currently learning Python!
 
 <!--
 **ZechenLiu826/ZechenLiu826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
